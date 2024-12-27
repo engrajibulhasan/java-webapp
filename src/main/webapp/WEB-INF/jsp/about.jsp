@@ -19,10 +19,10 @@
                 <div class="collapse navbar-collapse" id="navbarNav">
                     <ul class="navbar-nav">
                         <li class="nav-item">
-                            <a class="nav-link active" aria-current="page" href="/">Home</a>
+                            <a class="nav-link " aria-current="page" href="/">Home</a>
                         </li>
                         <li class="nav-item">
-                            <a class="nav-link" href="/about">About</a>
+                            <a class="nav-link active"  href="/about">About</a>
                         </li>
                         <li class="nav-item">
                             <a class="nav-link" href="/posts">Posts</a>
@@ -36,7 +36,7 @@
 
     <!-- Main Content -->
     <div class="container mt-5">
-        <h1 class="text-primary">Welcome Home to Spring Boot with JSP!</h1>
+        <h1 class="text-primary">Welcome About</h1>
         <p>This is a JSP file served by Spring Boot.</p>
     </div>
 
